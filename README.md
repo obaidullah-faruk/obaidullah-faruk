@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidullah-faruk&label=Profile%20views&color=0e75b6&style=flat" alt="obaidullah-faruk" /> </p>
 
 
-- 🌱 I’m currently learning **Web Crawler**
+- 🌱 I’m currently learning **FastAPI and Monitoring Tools**
 
 - 💬 Ask me about **python, node.js**
 
