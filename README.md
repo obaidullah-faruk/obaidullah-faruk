@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm MD Obaidullah Al-Faruk</h1>
-<h3 align="center">A passionate software Engineer from Bangladesh with great interest in cloud technology and data engineering.</h3>
+<h3 align="center">A passionate software Engineer from Bangladesh with great interest in cloud technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidullah-faruk&label=Profile%20views&color=0e75b6&style=flat" alt="obaidullah-faruk" /> </p>
 
 
-- 🌱 I’m currently learning **FastAPI and Monitoring Tools**
+- 🌱 I’m currently learning **Monitoring Tools**
 
-- 💬 Ask me about **python, node.js**
+- 💬 Ask me about **AWS, python, node.js**
 
 - 📫 How to reach me **obaidullah.faruk05@gmail.com**
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alfaruk75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfaruk75" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-obaidullah-al-faruk-788b32a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-obaidullah-al-faruk-788b32a3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-obaidullah-al-faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-obaidullah-al-faruk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9603959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9603959" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/obaidullah-faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="obaidullah-faruk" height="30" width="40" /></a>
 </p>
