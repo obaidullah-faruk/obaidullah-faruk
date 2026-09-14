@@ -1,0 +1,89 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Technology ecosystem</title>
+  <desc id="desc">An animated cloud, services, data, and automation network</desc>
+
+  <style>
+    .stream { animation: stream 2s linear infinite; }
+    .orbit { animation: orbit 22s linear infinite; transform-origin: 600px 95px; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    .pulse-two { animation-delay: -0.8s; }
+    .pulse-three { animation-delay: -1.6s; }
+    .float { animation: float 5s ease-in-out infinite alternate; }
+    .float-two { animation-delay: -2.5s; }
+
+    @keyframes stream { to { stroke-dashoffset: -24; } }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.45; }
+      50% { opacity: 1; }
+    }
+    @keyframes float {
+      from { transform: translateY(-4px); }
+      to { transform: translateY(5px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061726" />
+      <stop offset="0.48" stop-color="#0D1117" />
+      <stop offset="1" stop-color="#1B1035" />
+    </linearGradient>
+    <linearGradient id="line" x1="170" y1="120" x2="1040" y2="68" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" />
+      <stop offset="0.52" stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#A78BFA" />
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientTransform="translate(245 90) scale(280 160)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0891B2" stop-opacity="0.3" />
+      <stop offset="1" stop-color="#0891B2" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientTransform="translate(980 82) scale(270 160)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.28" />
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#94A3B8" stroke-opacity="0.055" />
+    </pattern>
+    <clipPath id="clip">
+      <rect width="1200" height="190" rx="24" />
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="190" rx="24" fill="url(#bg)" />
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="190" fill="url(#grid)" />
+    <rect width="1200" height="190" fill="url(#cyanGlow)" />
+    <rect width="1200" height="190" fill="url(#purpleGlow)" />
+
+    <ellipse class="orbit" cx="600" cy="95" rx="430" ry="118" stroke="url(#line)" stroke-width="1" stroke-dasharray="5 15" stroke-opacity="0.22" />
+    <path class="stream" d="M82 132C258 52 392 146 554 86C704 30 846 128 1114 54" stroke="url(#line)" stroke-width="2" stroke-dasharray="9 15" stroke-opacity="0.6" />
+    <path d="M26 168C228 126 362 184 546 144C764 96 934 164 1190 104" stroke="url(#line)" stroke-width="1.4" stroke-opacity="0.22" />
+
+    <g class="float">
+      <rect x="112" y="42" width="190" height="54" rx="27" fill="#0C2130" stroke="#155E75" />
+      <circle class="pulse" cx="140" cy="69" r="6" fill="#22D3EE" />
+      <text x="159" y="75" fill="#CFFAFE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650">CLOUD &amp; SERVICES</text>
+    </g>
+
+    <g class="float float-two">
+      <rect x="898" y="96" width="190" height="54" rx="27" fill="#17132D" stroke="#5B21B6" />
+      <circle class="pulse pulse-two" cx="926" cy="123" r="6" fill="#A78BFA" />
+      <text x="945" y="129" fill="#EDE9FE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650">DATA &amp; SIGNALS</text>
+    </g>
+
+    <g text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif">
+      <text x="600" y="80" fill="#F8FAFC" font-size="25" font-weight="750" letter-spacing="2.4">TECHNOLOGY ECOSYSTEM</text>
+      <text x="600" y="108" fill="#94A3B8" font-size="14" font-weight="500">cloud  •  code  •  data  •  automation</text>
+    </g>
+
+    <circle class="pulse pulse-three" cx="366" cy="134" r="4" fill="#67E8F9" />
+    <circle class="pulse" cx="780" cy="48" r="4" fill="#C4B5FD" />
+    <circle class="pulse pulse-two" cx="1102" cy="42" r="3" fill="#67E8F9" />
+    <circle class="pulse pulse-three" cx="62" cy="74" r="3" fill="#C4B5FD" />
+  </g>
+  <rect x="1" y="1" width="1198" height="188" rx="23" stroke="url(#line)" stroke-opacity="0.28" stroke-width="2" />
+</svg>

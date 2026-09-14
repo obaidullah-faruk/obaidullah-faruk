@@ -1,82 +1,98 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=obaidullah-faruk&amp;label=Total+profile+views&amp;color=0891B2&amp;style=for-the-badge" alt="Total profile views" />
+</div>
+
 <div align="center">
   <img src="./assets/header.svg" alt="MD Obaidullah Al-Faruk - Cloud and Backend Engineer" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=22&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Cloud+%26+Backend+Engineer;Designing+scalable+systems;AWS+%E2%80%A2+Python+%E2%80%A2+Terraform;Currently+learning+MLOps" alt="Animated introduction" />
+  </a>
+
+  <br />
+
+  <a href="https://obaidullah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/md-obaidullah-al-faruk"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=22D3EE" alt="LinkedIn" /></a>
+  <a href="mailto:obaidullah.faruk05@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=22D3EE" alt="Email" /></a>
 </div>
+
+## About me
+
+☁️ Cloud & Backend Engineer building scalable systems with **AWS, Python, and Terraform**<br />
+🌱 Currently exploring **MLOps**, from reproducible pipelines to model monitoring
+
+## Tech stack
 
 <div align="center">
-  <a href="https://obaidullah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/md-obaidullah-al-faruk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:obaidullah.faruk05@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="./assets/stack-background.svg" alt="Animated technology ecosystem" width="100%" />
 </div>
 
-## Hello 👋
-
-I'm a **Cloud & Backend Engineer** from Dhaka, Bangladesh, with **6.5+ years of experience** building reliable backend services and cloud infrastructure. My work sits where Python, AWS, automation, and system design meet.
-
-I enjoy turning business requirements into systems that are easy to deploy, observe, and scale. Right now, I am expanding that foundation into **MLOps**—learning how to make machine-learning workflows reproducible, automated, and production-ready.
+<br />
 
 <table>
   <tr>
-    <td align="center"><strong>6.5+ years</strong><br /><sub>Software engineering</sub></td>
-    <td align="center"><strong>1.5M+ requests/day</strong><br /><sub>AWS systems at peak</sub></td>
-    <td align="center"><strong>Infrastructure as Code</strong><br /><sub>Terraform &amp; automation</sub></td>
-    <td align="center"><strong>AI infrastructure</strong><br /><sub>Auto-scaling GPU workloads</sub></td>
+    <td align="center" width="50%">
+      <strong>☁️ Cloud</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" alt="AWS" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/EC2-0D1117?style=flat-square&amp;logo=amazonec2&amp;logoColor=FF9900" alt="Amazon EC2" />
+      <img src="https://img.shields.io/badge/ECS-0D1117?style=flat-square&amp;logo=amazonecs&amp;logoColor=FF9900" alt="Amazon ECS" />
+      <img src="https://img.shields.io/badge/S3-0D1117?style=flat-square&amp;logo=amazons3&amp;logoColor=569A31" alt="Amazon S3" />
+      <img src="https://img.shields.io/badge/RDS-0D1117?style=flat-square&amp;logo=amazonrds&amp;logoColor=527FFF" alt="Amazon RDS" />
+      <img src="https://img.shields.io/badge/SQS-0D1117?style=flat-square&amp;logo=amazonsqs&amp;logoColor=FF4F8B" alt="Amazon SQS" />
+    </td>
+    <td align="center" width="50%">
+      <strong>⚙️ Backend</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,express&amp;theme=dark" alt="Python, Django, FastAPI, Flask, Node.js, and Express" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/DRF-0D1117?style=flat-square&amp;logo=django&amp;logoColor=44B78B" alt="Django REST Framework" />
+      <img src="https://img.shields.io/badge/Celery-0D1117?style=flat-square&amp;logo=celery&amp;logoColor=37B24D" alt="Celery" />
+      <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&amp;logo=fastapi&amp;logoColor=00C7B7" alt="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🗄️ Databases</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&amp;theme=dark" alt="PostgreSQL, MongoDB, and Redis" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/InfluxDB-0D1117?style=flat-square&amp;logo=influxdb&amp;logoColor=22ADF6" alt="InfluxDB" />
+      <img src="https://img.shields.io/badge/DynamoDB-0D1117?style=flat-square&amp;logo=amazondynamodb&amp;logoColor=4053D6" alt="Amazon DynamoDB" />
+    </td>
+    <td align="center" width="50%">
+      <strong>📦 DevOps</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,linux,git&amp;theme=dark" alt="Kubernetes, Docker, Terraform, Linux, and Git" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/IaC-0D1117?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA" alt="Infrastructure as Code" />
+      <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=flat-square&amp;logo=githubactions&amp;logoColor=2088FF" alt="CI/CD" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>📈 Observability</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana&amp;theme=dark" alt="Prometheus and Grafana" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/Loki-0D1117?style=flat-square&amp;logo=grafana&amp;logoColor=F46800" alt="Grafana Loki" />
+      <img src="https://img.shields.io/badge/CloudWatch-0D1117?style=flat-square&amp;logo=amazoncloudwatch&amp;logoColor=FF4F8B" alt="Amazon CloudWatch" />
+    </td>
+    <td align="center" width="50%">
+      <strong>🤖 Automation</strong>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=ansible,githubactions,gitlab,bash&amp;theme=dark" alt="Ansible, GitHub Actions, GitLab, and Bash" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/GitLab_CI%2FCD-0D1117?style=flat-square&amp;logo=gitlab&amp;logoColor=FC6D26" alt="GitLab CI/CD" />
+    </td>
   </tr>
 </table>
 
-## What I work with
-
-| Area | Technologies |
-| --- | --- |
-| **Cloud & DevOps** | AWS, Terraform, Docker, Ansible, GitHub Actions, GitLab CI/CD |
-| **Backend** | Python, Django, Django REST Framework, FastAPI, Flask, Celery, Node.js, Express.js |
-| **Data** | PostgreSQL, MongoDB, Redis, InfluxDB, SQL |
-| **Observability** | Prometheus, Grafana, Loki, Amazon CloudWatch |
-| **Architecture** | Distributed systems, microservices, event-driven systems, REST APIs |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,python,django,fastapi,nodejs,postgres,mongodb,redis,git,githubactions,grafana,linux,bash&perline=15" alt="Technology icons" />
-</p>
-
-## Current focus: MLOps
-
-```text
-data & experiments  →  training pipelines  →  versioned models  →  deployment  →  monitoring
-```
-
-- Building end-to-end ML workflows instead of isolated notebooks
-- Applying CI/CD, containers, observability, and infrastructure automation to ML systems
-- Exploring reproducible training, model serving, drift monitoring, and production feedback loops
-
-## Featured projects
-
-| Project | Why it matters | Built with |
-| --- | --- | --- |
-| [**Noxrel**](https://github.com/obaidullah-faruk/noxrel) | End-to-end platform for video upload, transcoding, streaming, and monetization at scale | TypeScript, Python, AWS, distributed services |
-| [**African Wildlife MLOps**](https://github.com/obaidullah-faruk/african-wildlife-mlops) | An MLOps learning project for detecting buffalo, elephant, rhino, and zebra in images | Python, computer vision, MLOps |
-| [**Scalable Data Ingestion**](https://github.com/obaidullah-faruk/Scalable-data-ingestion) | A practical approach to importing CSV data through a scalable processing pipeline | Python, data pipelines |
-| [**AWS SAA-C03 Guides**](https://github.com/obaidullah-faruk/aws-saa-c03-guides) | 38 analogy-first, exam-focused guides for AWS Solutions Architect Associate topics | AWS, cloud architecture |
-| [**IoT Streaming Platform**](https://github.com/obaidullah-faruk/iot-streaming-platform) | Real-time telemetry ingestion and processing with a Kafka KRaft pipeline | Python, Kafka, streaming |
-
-## Experience snapshot
-
-- **DevOps Engineer — The Data Island** (2024–2026): designed AWS infrastructure, automated environments with Terraform, built CI/CD pipelines, and implemented auto-scaling GPU workloads for AI inference.
-- **Software Engineer II — Brotecs Technologies** (2019–2024): built Python and Node.js services, designed AWS infrastructure, optimized databases, contributed to architecture decisions, and mentored junior engineers.
-
-## Publication
-
-**BFM: A Forward Backward String Matching Algorithm with Improved Shifting for Information Retrieval**<br />
-Published in the *International Journal of Information Technology* (Springer). [Read the paper →](https://link.springer.com/article/10.1007/s41870-019-00371-1)
-
-## GitHub activity
+## Activity
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=obaidullah-faruk&theme=github_dark" alt="Obaidullah's GitHub statistics" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obaidullah-faruk&theme=github_dark" alt="Obaidullah's repositories by language" />
-</div>
-
-<div align="center">
-  <br />
-  <em>Open to thoughtful conversations about cloud architecture, backend engineering, DevOps, and MLOps.</em>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=obaidullah-faruk&label=Profile%20views&color=0891B2&style=flat" alt="Profile views" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=obaidullah-faruk&amp;theme=github_dark" alt="GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obaidullah-faruk&amp;theme=github_dark" alt="Repositories by language" />
 </div>
