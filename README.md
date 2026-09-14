@@ -29,9 +29,9 @@
 
 <br />
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="720">
       <strong>☁️ Cloud</strong>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" alt="AWS" />
@@ -42,7 +42,7 @@
       <img src="https://img.shields.io/badge/RDS-0D1117?style=flat-square&amp;logo=amazonrds&amp;logoColor=527FFF" alt="Amazon RDS" />
       <img src="https://img.shields.io/badge/SQS-0D1117?style=flat-square&amp;logo=amazonsqs&amp;logoColor=FF4F8B" alt="Amazon SQS" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="720">
       <strong>⚙️ Backend</strong>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,express&amp;theme=dark" alt="Python, Django, FastAPI, Flask, Node.js, and Express" />
@@ -53,7 +53,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="720">
       <strong>🗄️ Databases</strong>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&amp;theme=dark" alt="PostgreSQL, MongoDB, and Redis" />
@@ -61,7 +61,7 @@
       <img src="https://img.shields.io/badge/InfluxDB-0D1117?style=flat-square&amp;logo=influxdb&amp;logoColor=22ADF6" alt="InfluxDB" />
       <img src="https://img.shields.io/badge/DynamoDB-0D1117?style=flat-square&amp;logo=amazondynamodb&amp;logoColor=4053D6" alt="Amazon DynamoDB" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="720">
       <strong>📦 DevOps</strong>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,linux,git&amp;theme=dark" alt="Kubernetes, Docker, Terraform, Linux, and Git" />
@@ -71,7 +71,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="720">
       <strong>📈 Observability</strong>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=prometheus,grafana&amp;theme=dark" alt="Prometheus and Grafana" />
@@ -79,7 +79,7 @@
       <img src="https://img.shields.io/badge/Loki-0D1117?style=flat-square&amp;logo=grafana&amp;logoColor=F46800" alt="Grafana Loki" />
       <img src="https://img.shields.io/badge/CloudWatch-0D1117?style=flat-square&amp;logo=amazoncloudwatch&amp;logoColor=FF4F8B" alt="Amazon CloudWatch" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="720">
       <strong>🤖 Automation</strong>
       <br /><br />
       <img src="https://skillicons.dev/icons?i=ansible,githubactions,gitlab,bash&amp;theme=dark" alt="Ansible, GitHub Actions, GitLab, and Bash" />
