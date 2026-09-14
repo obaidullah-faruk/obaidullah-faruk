@@ -1,30 +1,82 @@
-<h1 align="center">Hi 👋, I'm MD Obaidullah Al-Faruk</h1>
-<h3 align="center">A passionate software Engineer from Bangladesh with great interest in cloud technology.</h3>
+<div align="center">
+  <img src="./assets/header.svg" alt="MD Obaidullah Al-Faruk - Cloud and Backend Engineer" width="100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obaidullah-faruk&label=Profile%20views&color=0e75b6&style=flat" alt="obaidullah-faruk" /> </p>
+<div align="center">
+  <a href="https://obaidullah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/md-obaidullah-al-faruk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:obaidullah.faruk05@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
+## Hello 👋
 
-- 🌱 I’m currently learning **Monitoring Tools**
+I'm a **Cloud & Backend Engineer** from Dhaka, Bangladesh, with **6.5+ years of experience** building reliable backend services and cloud infrastructure. My work sits where Python, AWS, automation, and system design meet.
 
-- 💬 Ask me about **AWS, python, node.js**
+I enjoy turning business requirements into systems that are easy to deploy, observe, and scale. Right now, I am expanding that foundation into **MLOps**—learning how to make machine-learning workflows reproducible, automated, and production-ready.
 
-- 📫 How to reach me **obaidullah.faruk05@gmail.com**
+<table>
+  <tr>
+    <td align="center"><strong>6.5+ years</strong><br /><sub>Software engineering</sub></td>
+    <td align="center"><strong>1.5M+ requests/day</strong><br /><sub>AWS systems at peak</sub></td>
+    <td align="center"><strong>Infrastructure as Code</strong><br /><sub>Terraform &amp; automation</sub></td>
+    <td align="center"><strong>AI infrastructure</strong><br /><sub>Auto-scaling GPU workloads</sub></td>
+  </tr>
+</table>
 
-- 📄 Portfolio [https://obaidullah.vercel.app/](https://obaidullah.vercel.app/)
+## What I work with
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alfaruk75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfaruk75" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-obaidullah-al-faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-obaidullah-al-faruk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9603959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9603959" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/obaidullah-faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="obaidullah-faruk" height="30" width="40" /></a>
+| Area | Technologies |
+| --- | --- |
+| **Cloud & DevOps** | AWS, Terraform, Docker, Ansible, GitHub Actions, GitLab CI/CD |
+| **Backend** | Python, Django, Django REST Framework, FastAPI, Flask, Celery, Node.js, Express.js |
+| **Data** | PostgreSQL, MongoDB, Redis, InfluxDB, SQL |
+| **Observability** | Prometheus, Grafana, Loki, Amazon CloudWatch |
+| **Architecture** | Distributed systems, microservices, event-driven systems, REST APIs |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,python,django,fastapi,nodejs,postgres,mongodb,redis,git,githubactions,grafana,linux,bash&perline=15" alt="Technology icons" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## Current focus: MLOps
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaidullah-faruk&show_icons=true&locale=en&layout=compact" alt="obaidullah-faruk" /></p>
+```text
+data & experiments  →  training pipelines  →  versioned models  →  deployment  →  monitoring
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaidullah-faruk&show_icons=true&locale=en" alt="obaidullah-faruk" /></p>
+- Building end-to-end ML workflows instead of isolated notebooks
+- Applying CI/CD, containers, observability, and infrastructure automation to ML systems
+- Exploring reproducible training, model serving, drift monitoring, and production feedback loops
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaidullah-faruk&" alt="obaidullah-faruk" /></p>
+## Featured projects
+
+| Project | Why it matters | Built with |
+| --- | --- | --- |
+| [**Noxrel**](https://github.com/obaidullah-faruk/noxrel) | End-to-end platform for video upload, transcoding, streaming, and monetization at scale | TypeScript, Python, AWS, distributed services |
+| [**African Wildlife MLOps**](https://github.com/obaidullah-faruk/african-wildlife-mlops) | An MLOps learning project for detecting buffalo, elephant, rhino, and zebra in images | Python, computer vision, MLOps |
+| [**Scalable Data Ingestion**](https://github.com/obaidullah-faruk/Scalable-data-ingestion) | A practical approach to importing CSV data through a scalable processing pipeline | Python, data pipelines |
+| [**AWS SAA-C03 Guides**](https://github.com/obaidullah-faruk/aws-saa-c03-guides) | 38 analogy-first, exam-focused guides for AWS Solutions Architect Associate topics | AWS, cloud architecture |
+| [**IoT Streaming Platform**](https://github.com/obaidullah-faruk/iot-streaming-platform) | Real-time telemetry ingestion and processing with a Kafka KRaft pipeline | Python, Kafka, streaming |
+
+## Experience snapshot
+
+- **DevOps Engineer — The Data Island** (2024–2026): designed AWS infrastructure, automated environments with Terraform, built CI/CD pipelines, and implemented auto-scaling GPU workloads for AI inference.
+- **Software Engineer II — Brotecs Technologies** (2019–2024): built Python and Node.js services, designed AWS infrastructure, optimized databases, contributed to architecture decisions, and mentored junior engineers.
+
+## Publication
+
+**BFM: A Forward Backward String Matching Algorithm with Improved Shifting for Information Retrieval**<br />
+Published in the *International Journal of Information Technology* (Springer). [Read the paper →](https://link.springer.com/article/10.1007/s41870-019-00371-1)
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=obaidullah-faruk&theme=github_dark" alt="Obaidullah's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obaidullah-faruk&theme=github_dark" alt="Obaidullah's repositories by language" />
+</div>
+
+<div align="center">
+  <br />
+  <em>Open to thoughtful conversations about cloud architecture, backend engineering, DevOps, and MLOps.</em>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=obaidullah-faruk&label=Profile%20views&color=0891B2&style=flat" alt="Profile views" />
+</div>
